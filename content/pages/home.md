@@ -5,6 +5,8 @@ blocks:
       # **Casa Cantuária**
 
       Casa de Apoio de Longa Permanência Para Adultos - Assistência Psicossocial
+
+      ![](/385049549_199965783108523_8790094970218520938_n.jpg)
     links:
       - link: /
         label: Contato

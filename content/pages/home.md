@@ -51,7 +51,7 @@ blocks:
           pela Nutricionista da Casa que dispõe de refeições balanceadas, de
           qualidade e feitas com muito amor.
       - icon: BallStar
-        label: Mission Statement
+        label: Nossa missão
         description: >-
           To infuse joy, laughter, and connection into every video call through
           the charm of llamas, transforming ordinary conversations into

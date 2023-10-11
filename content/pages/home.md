@@ -35,12 +35,14 @@ blocks:
           A casa recebe visitas periódicas de Médico Clinico Geral, que faz uma
           avaliação física dos moradores da casa. 
       - icon: StarWindow
-        label: LlamaLink Messages
+        label: Aulas educação física
         description: >-
-          Host virtual meetings, conferences, and webinars with ease using
-          LlamaLink Meetings. Enjoy the collaborative features, such as screen
-          sharing, file sharing, and real-time chat, all while surrounded by
-          llama-themed goodness.
+          A Cantuária Casa de Apoio Não Prescreve e nem administra qualquer
+          Medicação sem orientação médica.
+
+
+          Aulas de Educação Física acompanhadas por um Profissional habilitado,
+          com a finalidade de melhorar a qualidade de vida dos nosso moradores.
       - icon: SocialEmoji
         label: Llama Social
         description: >-

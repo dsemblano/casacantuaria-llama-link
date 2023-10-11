@@ -34,6 +34,10 @@ blocks:
         description: >-
           A casa recebe visitas periódicas de Médico Clinico Geral, que faz uma
           avaliação física dos moradores da casa. 
+
+
+          A Cantuária Casa de Apoio Não Prescreve e nem administra qualquer
+          Medicação sem orientação médica.
       - icon: StarWindow
         label: Aulas educação física
         description: >-

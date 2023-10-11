@@ -44,12 +44,12 @@ blocks:
           Aulas de Educação Física acompanhadas por um Profissional habilitado,
           com a finalidade de melhorar a qualidade de vida dos nosso moradores.
       - icon: SocialEmoji
-        label: Llama Social
-        description: >-
-          Connect with friends, family, and colleagues through LlamaLink Social.
-          Share updates, photos, and videos, and engage in llama-themed
-          conversations that will make your social network experience unique and
-          entertaining.
+        label: Nutricionista
+        description: >
+
+          Temos acompanhamento Nutricional, e contamos com um cardápio elaborado
+          pela Nutricionista da Casa que dispõe de refeições balanceadas, de
+          qualidade e feitas com muito amor.
       - icon: BallStar
         label: Mission Statement
         description: >-

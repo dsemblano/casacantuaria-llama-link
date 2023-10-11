@@ -4,13 +4,13 @@ blocks:
   - message: |
       # **Casa Cantuária**
 
-      Connect, Communicate, and Create Memorable Moments with Llama Video Calls
+      Casa de Apoio de Longa Permanência Para Adultos - Assistência Psicossocial
     links:
       - link: /
-        label: Get Started
+        label: Contato
         style: button
       - link: /learn
-        label: Learn More
+        label: Saiba Mais
         style: simple
     _template: welcomeHero
   - byline: Services

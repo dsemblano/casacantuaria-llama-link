@@ -37,10 +37,6 @@ blocks:
       - icon: StarWindow
         label: Aulas educação física
         description: >-
-          A Cantuária Casa de Apoio Não Prescreve e nem administra qualquer
-          Medicação sem orientação médica.
-
-
           Aulas de Educação Física acompanhadas por um Profissional habilitado,
           com a finalidade de melhorar a qualidade de vida dos nosso moradores.
       - icon: SocialEmoji

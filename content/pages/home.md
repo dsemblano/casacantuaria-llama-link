@@ -69,7 +69,7 @@ blocks:
           the charm of llamas, transforming ordinary conversations into
           extraordinary moments.
     _template: featureList
-  - label: Announcement
+  - label: Rodapé
     featuredPost: content/posts/rodape.md
     _template: featuredReading
 ---

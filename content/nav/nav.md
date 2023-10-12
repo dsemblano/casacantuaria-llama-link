@@ -1,7 +1,7 @@
 ---
 links:
   - label: Contato
-    link: contato
+    link: /contato
   - label: Home
     link: /
   - label: Blog

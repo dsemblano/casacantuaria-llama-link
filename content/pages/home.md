@@ -2,9 +2,11 @@
 title: Hello
 blocks:
   - message: |
-      # **Casa Cantuária **
+      # Casa Cantuária
 
       Casa de Apoio de Longa Permanência Para Adultos - Assistência Psicossocial
+
+      ![](/382384467_199276813177420_5628830331401818397_n.jpg)
     links:
       - link: /
         label: Contato
@@ -59,4 +61,5 @@ blocks:
     featuredPost: content/posts/rodape.md
     _template: featuredReading
 ---
+
 

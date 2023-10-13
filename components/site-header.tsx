@@ -32,7 +32,8 @@ export function SiteHeader(props: PageAndNavQuery["nav"]) {
             href="/"
             className="flex h-12 w-12 items-center justify-center rounded-full bg-gray-100"
           >
-            <Logo className="h-5 w-5" />
+            {/* <Logo className="h-5 w-5" /> */}
+            <img src="./logocoracao.png" className="h-8 w-8" />
           </Link>
 
           <div className="hidden md:block">

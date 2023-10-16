@@ -11,7 +11,7 @@ export function WelcomeHero(props: PageBlocksWelcomeHero) {
   return (
     <section className="relative overflow-hidden">
       <div className="absolute inset-0 mx-auto h-full w-full max-w-[1600px]">
-        <IconWrapper />
+        {/* <IconWrapper /> */}
       </div>
       <div className="relative flex flex-col items-center gap-2 py-24">
         <div
